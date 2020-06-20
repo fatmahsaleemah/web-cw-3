@@ -7,6 +7,7 @@ width: 150px;
 }
 .i{
     list-style-type: none;
+    padding: 0px;
 }
 .blue{
     background-color: blue;
@@ -16,4 +17,7 @@ width: 150px;
 }
 .green{
     background-color: green;
+}
+table{
+    border: blueviolet;
 }
